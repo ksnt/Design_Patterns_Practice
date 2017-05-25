@@ -8,11 +8,11 @@
 
 ## The Observer Design Pattern
 
-## The Chain of Responsibility Design Pattern
+## (The Chain of Responsibility Design Pattern)
 
 ## The Singleton Design Pattern
 
-## The Flyweight Design Pattern
+## (The Flyweight Design Pattern)
 
 ## The Adapter Design Pattern
 
@@ -32,10 +32,18 @@
 
 ## The Command Design Pattern
 
-## The Mediator Design Pattern
+## The Bridge Design Pattern
+
+## (The Mediator Design Pattern)
 
 ## Additional Patterns
 
 ## Creating Your Own Design Patterns
 
+# Reference
 
+https://www.vtc.com/products/Design-Patterns-tutorials.htm  
+
+Design Patterns Explained: A New Perspective on Object Oriented Design, 2nd Edition  
+
+Head First Design Patterns: A Brain-Friendly Guide  
